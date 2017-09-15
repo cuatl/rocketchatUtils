@@ -3,7 +3,7 @@
    * respuestas a webhook de salida Rocket.Chat
    * https://tar.mx/archivo/2017/crear-un-bot-para-rocket-chat-en-php.html
    * 
-   * @toro 2017 https://tar.mx/tema/rocketchat 
+   * @toro 2017 https://tar.mx/
    */
    $token=""; //establecer el token de tu webhook de salida
    $me = "techbot"; //nombre del bot

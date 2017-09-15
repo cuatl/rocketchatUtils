@@ -1,4 +1,6 @@
 # rocketchatUtils
-Scripts útiles para interactuar con instalaciones de Rocket.Chat
+Scripts útiles para interactuar con instalaciones de Rocket.Chat, con PHP
 
-* [webhook.php](webhook) - ejemplo de webhook de salida (y entrada)
+* [webhook](webhook.php) - ejemplo de webhook de salida (y entrada)
+
+[más sobre rocketchat](https://tar.mx/tema/rocketchat) tar.mx
